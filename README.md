@@ -1,6 +1,6 @@
 # Java CLI Weather App
 
-A lightweight, command-line weather application built in Java that fetches real-time meteorological data for any city worldwide using the OpenWeatherMap API[cite: 1, 2, 3].
+A lightweight, command-line weather application built in Java that fetches real-time meteorological data for any city worldwide using the OpenWeatherMap API[cite: 1, 2, 3]. Finished this after Computer Science 1, freshman year
 
 ---
 
