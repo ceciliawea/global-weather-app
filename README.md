@@ -27,8 +27,8 @@ A lightweight, command-line weather application built in Java that fetches real-
 ---
 
 ## How to Run
-1. Ensure you have the Java Development Kit (JDK) installed.
-2. Ensure you have the `org.json` library jar included in your project build path/classpath.
+1. Have a Java Development Kit (JDK), or a common compiler (like IntelliJ) installed.
+2. Make sure you have the `org.json` library jar included in your project build path/classpath.
 3. Compile all source files:
    ```bash
    javac WeatherApp.java WeatherFetcher.java UserInput.java
