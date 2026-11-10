@@ -8,7 +8,7 @@ import org.json.JSONObject;
 
 public class WeatherFetcher {
 
-    private final String API_KEY = "a53696c088e6e33725a8664eeb7f33e7";  // ✅ OUTSIDE the method
+    private final String API_KEY = "add your own API";  // Add your own API to fetch weather data!
 
     public void showForecast(String city) {
         String choice;
